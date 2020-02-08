@@ -21,3 +21,4 @@ Yet another curated List of AngularJS Components & Libraries.
 *Toaster / snackbar — Notify the user with a modeless temporary little popup*
 
 - :arrow_double_down: [alexcrack/angular-ui-notification](https://github.com/alexcrack/angular-ui-notification) - Angular.js service providing simple notifications using Bootstrap 3 styles with css transitions for animating
+- [sagiegurari/angular-web-notification](https://github.com/sagiegurari/angular-web-notification) - Web Notifications AngularJS Service
