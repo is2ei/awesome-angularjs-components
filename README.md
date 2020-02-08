@@ -22,6 +22,7 @@ Yet another curated List of AngularJS Components & Libraries.
 
 - :arrow_double_down: [alexcrack/angular-ui-notification](https://github.com/alexcrack/angular-ui-notification) - Angular.js service providing simple notifications using Bootstrap 3 styles with css transitions for animating
 - :arrow_double_down: [boykovdmitriy/angular2modal](https://github.com/boykovdmitriy/angular2modal) - example for angular 2 with modal window and toast notification
+- :arrow_double_down: [dev-tim/angular-noty](https://github.com/dev-tim/angular-noty) - Wrapper for Noty - cool growl-like notifications.
 - [jirikavi/AngularJS-Toaster](https://github.com/jirikavi/AngularJS-Toaster) - AngularJS Toaster is a customized version of "toastr" non-blocking notification javascript library.
 - :arrow_double_down: [ng-parth/notifyMe](https://github.com/ng-parth/notifyMe) - notifyMe is a angular 1.x module which can be used to show notification messages within a SPA. You can check the demo at
 - [sagiegurari/angular-web-notification](https://github.com/sagiegurari/angular-web-notification) - Web Notifications AngularJS Service
