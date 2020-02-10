@@ -26,3 +26,13 @@ Yet another curated List of AngularJS Components & Libraries.
 - [jirikavi/AngularJS-Toaster](https://github.com/jirikavi/AngularJS-Toaster) - AngularJS Toaster is a customized version of "toastr" non-blocking notification javascript library.
 - :arrow_double_down: [ng-parth/notifyMe](https://github.com/ng-parth/notifyMe) - notifyMe is a angular 1.x module which can be used to show notification messages within a SPA. You can check the demo at
 - [sagiegurari/angular-web-notification](https://github.com/sagiegurari/angular-web-notification) - Web Notifications AngularJS Service
+
+### Loader
+
+*Loaders / spinners / progress bars — Let the user know that something is loading*
+
+### Tooltip
+
+*Tooltips / popovers*
+
+- :arrow_double_down: [720kb/angular-tooltips](https://github.com/720kb/angular-tooltips) - Angularjs tooltips module, add tooltips to your elements
