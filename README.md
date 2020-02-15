@@ -26,6 +26,7 @@ Yet another curated List of AngularJS Components & Libraries.
 - :coffin: [alenaksu/mdPickers](https://github.com/alenaksu/mdPickers) - Material Design date/time pickers for Angular Material
 - [amittkSharma/extended-datetimepicker](https://github.com/amittkSharma/extended-datetimepicker) - An Angular Material based, an Android style date-time picker, with ability to disable set of continuous or non-continuous date sets.
 - :coffin: [dalelotts/angularjs-bootstrap-datetimepicker](https://github.com/dalelotts/angularjs-bootstrap-datetimepicker) - ARCHIVED: Native AngularJS date & time picker directive styled by Twitter Bootstrap
+- [deepak-mean/angMdTimePicker](https://github.com/deepak-mean/angMdTimePicker) - A timepicker only directive using angular material with support of moment.js and moment-timezone.js
 - :arrow_double_down: [indrimuska/angular-moment-picker](https://github.com/indrimuska/angular-moment-picker) - Angular Moment Picker is an AngularJS directive for date and time picker using Moment.js.
 - [mikemajesty/Chocobo-Date-Range-Picker](https://github.com/mikemajesty/Chocobo-Date-Range-Picker) - 🗓️ Component - The Date Range Picker easier to use in AngularJS.
 - [wingify/angular-time-picker](https://github.com/wingify/angular-time-picker) - 🕗 Angular directive for time picker
