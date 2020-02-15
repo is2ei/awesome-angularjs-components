@@ -28,6 +28,7 @@ Yet another curated List of AngularJS Components & Libraries.
 - :arrow_double_down: [indrimuska/angular-moment-picker](https://github.com/indrimuska/angular-moment-picker) - Angular Moment Picker is an AngularJS directive for date and time picker using Moment.js.
 - [mikemajesty/Chocobo-Date-Range-Picker](https://github.com/mikemajesty/Chocobo-Date-Range-Picker) - 🗓️ Component - The Date Range Picker easier to use in AngularJS.
 - [wingify/angular-time-picker](https://github.com/wingify/angular-time-picker) - 🕗 Angular directive for time picker
+- [xuMINGzhi9/ngDateTimePicker](https://github.com/xuMINGzhi9/ngDateTimePicker) - 一个适用于Angular1.X的dateTimePicker
 
 ### Table
 
