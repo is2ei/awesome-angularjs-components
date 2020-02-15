@@ -10,7 +10,18 @@ Yet another curated List of AngularJS Components & Libraries.
 
 ## Table of Contents
 
+- [UI Components](#ui-components)
+  - [Form](#form)
+
 ## UI Components
+
+### Form
+
+*Let the user create & edit data*
+
+#### Date Picker
+
+*Date / datetime / time Picker*
 
 ### Table
 
