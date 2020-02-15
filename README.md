@@ -23,7 +23,7 @@ Yet another curated List of AngularJS Components & Libraries.
 
 *Date / datetime / time Picker*
 
-- [indrimuska/angular-moment-picker](https://github.com/indrimuska/angular-moment-picker) - Angular Moment Picker is an AngularJS directive for date and time picker using Moment.js.
+- :arrow_double_down: [indrimuska/angular-moment-picker](https://github.com/indrimuska/angular-moment-picker) - Angular Moment Picker is an AngularJS directive for date and time picker using Moment.js.
 
 ### Table
 
