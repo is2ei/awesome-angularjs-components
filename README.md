@@ -12,12 +12,19 @@ Yet another curated List of AngularJS Components & Libraries.
 
 - [UI Components](#ui-components)
   - [Form](#form)
+  - [Tooltip](#tooltip)
 
 ## UI Components
 
 ### Form
 
 *Let the user create & edit data*
+
+### Tooltip
+
+*Tooltips / popovers*
+
+- :arrow_double_down: [720kb/angular-tooltips](https://github.com/720kb/angular-tooltips) - Angularjs tooltips module, add tooltips to your elements
 
 #### Date Picker
 
@@ -50,9 +57,3 @@ Yet another curated List of AngularJS Components & Libraries.
 ### Loader
 
 *Loaders / spinners / progress bars — Let the user know that something is loading*
-
-### Tooltip
-
-*Tooltips / popovers*
-
-- :arrow_double_down: [720kb/angular-tooltips](https://github.com/720kb/angular-tooltips) - Angularjs tooltips module, add tooltips to your elements
